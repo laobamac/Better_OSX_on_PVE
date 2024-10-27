@@ -1,7 +1,7 @@
 # PVE-OpenCore
 # Better_OSX_on_PVE
 [English](README.md)
-[开发版分支](https://github.com/laobamac/PVE-OpenCore/tree/dev)  <br>QQ交流群 734284448<br>
+[开发版分支](https://github.com/laobamac/PVE-OpenCore/tree/dev)  <br>QQ交流群 965625664<br>
 更加简单高效地在PVE安装macOS
 
 <div align="center">
@@ -70,4 +70,4 @@ https://github.com/thenickdude/KVM-Opencore/
 4.本项目的分支文件（*.zip）不会主动更新，主要版本将在发布中发布。因此，请不要在没有特殊需求的情况下下载sources.zip。只有重大更改才会更新相应的 EFI 文件夹，并且在所有其他情况下只会发布 *.img 和 single*.img。
 
 ## QQ交流群
-![Q](https://file.imgcc.cloud/images/2024/09/19/ab7ad35c5a6424fe3ece67deaa38e6b5.jpg)
+![Q](https://file.imgcc.cloud/images/2024/10/28/bdd4900a352546dafcd992122a87a11d.png)
